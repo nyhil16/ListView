@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="label">Grupos y Artistas</string>
+    <string-array name="grupos">
+        <item>AC/DC</item>
+        <item>Metallica</item>
+        <item>Guns N Roses</item>
+        <item>Hawkwind</item>
+        <item>Kiss</item>
+        <item>Fleetwood Mac</item>
+        <item>Led Zeppelin</item>
+        <item>Blue Oyster Cult</item>
+    </string-array>
+</resources>
